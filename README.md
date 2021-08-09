@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying to be a Full-Stack Developer
 - ⚡ Fun fact: I am  Juggler, who would have thought, hen?
--  Pronouns: She/Her
+- 😄 Pronouns: She/Her
 
 ### Languages
 
@@ -17,10 +17,13 @@
 ### Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ### Come talk to me
 "I felt it shelter to speak to you" - Emily Dickinson
+
+<a href="https://www.linkedin.com/in/lia-ximenes-204838202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 
