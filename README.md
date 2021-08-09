@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying to be a Full-Stack Developer
 - ⚡ Fun fact: I am  Juggler, who would have thought, hen?
-- smile Pronouns: She/Her
+-  Pronouns: She/Her
 
 ### Languages
 
