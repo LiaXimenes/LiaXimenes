@@ -23,6 +23,7 @@
 ### Come talk to me
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 "I felt it shelter to speak to you" - Emily Dickinson
 
 [linkedin]: https://www.linkedin.com/in/lia-ximenes-204838202/
