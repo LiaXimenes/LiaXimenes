@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently studying to be a Full-Stack Developer
 - ⚡ Fun fact: I am  Juggler, who would have thought, hen?
+- smile Pronouns: She/Her
 
 ### Languages
 
@@ -17,5 +18,9 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+### Come talk to me
+"I felt it shelter to speak to you" - Emily Dickinson
+
 
 
