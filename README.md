@@ -1,6 +1,6 @@
 ## Hey 👋
 
-- 🌱 I’m currently studying to be a Full-Stack Developer
+- 🌱 A Full-Stack Developer and always studying to be a better one
 - ⚡ Fun fact: I am  Juggler, who would have thought, hen?
 - 😄 Pronouns: She/Her
 
