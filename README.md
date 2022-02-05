@@ -1,6 +1,7 @@
 ## Hey 👋
 
 - 🌱 A Full-Stack Developer and always studying to be a better one
+- 🖥️ Currently working for OLX Brasil, we are developing a new payment plataform as OLX Brasil bought another company 
 - ⚡ Fun fact: I am  Juggler, who would have thought, hen?
 - 😄 Pronouns: She/Her
 
