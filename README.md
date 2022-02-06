@@ -1,7 +1,7 @@
 ## Hey 👋
 
 - 🌱 A Full-Stack Developer and always studying to be a better one
-- 🖥️ Currently working for OLX Brasil, we are developing a new payment plataform as OLX Brasil bought another company 
+- 🖥️ Currently working for OLX Brasil, one of the biggest marketplaces in Brazil, we are developing a new payment platform as OLX Brasil bought another company 
 - ⚡ Fun fact: I am  Juggler, who would have thought, hen?
 - 😄 Pronouns: She/Her
 
@@ -13,6 +13,7 @@
 ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 ### Tools
