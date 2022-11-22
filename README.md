@@ -2,7 +2,6 @@
 
 - 🌱 A Full-Stack Developer and always studying to be a better one
 - ↩️ I worked for OLX Brasil, one of the biggest marketplaces in Brazil,I was part of a team that was developing a new payment platform as OLX Brasil bought another company 
-- 🖥️ I am currently working for a Canadian Company called iRestify
 - ⚡ Fun fact: I am  Juggler, who would have thought, hen?
 - 😄 Pronouns: She/Her
 
