@@ -30,7 +30,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/lia-ximenes-204838202/
+[linkedin]: https://www.linkedin.com/in/lia-ximenes/
 
 
 
