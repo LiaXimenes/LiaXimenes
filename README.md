@@ -2,7 +2,7 @@
 
 - 🌱 A Full-Stack Developer and always studying to be a better one
 - ↩️ I worked for OLX Brasil, one of the biggest marketplaces in Brazil,I was part of a team that was developing a new payment platform as OLX Brasil bought another company
-- 💻 Currently working for Quorum, an American company based in Washington DC
+- 💻 Currently working for Quorum, a public affairs software company based in Washington DC
 - ⚡ Fun fact: I am  Juggler, who would have thought, hen?
 - 😄 Pronouns: She/Her
 
